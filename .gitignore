@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Data
+Data_cleaning.R
+
+#Rproj
+Work_in_Progress_Symposium.Rproj
